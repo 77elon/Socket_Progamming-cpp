@@ -1,0 +1,4 @@
+﻿  BroadcastSender.c
+D:\OneDrive - 강원대학교\과제\3학년 2학기\네트워크프로그래밍\C++ Projects\BroadcastSender\BroadcastSender\BroadcastSender.c(98,15): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\OneDrive - 강원대학교\과제\3학년 2학기\네트워크프로그래밍\C++ Projects\BroadcastSender\BroadcastSender\BroadcastSender.c(107,36): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BroadcastSender.vcxproj -> D:\OneDrive - 강원대학교\과제\3학년 2학기\네트워크프로그래밍\C++ Projects\BroadcastSender\BroadcastSender\x64\Debug\BroadcastSender.exe

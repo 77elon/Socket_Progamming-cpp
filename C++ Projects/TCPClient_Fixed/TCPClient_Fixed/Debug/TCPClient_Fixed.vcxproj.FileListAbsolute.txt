@@ -1,0 +1,2 @@
+D:\OneDrive - 강원대학교\과제\3학년 2학기\네트워크프로그래밍\C++ Projects\TCPServer_Fixed\TCPServer_Fixed\Debug\TCPServer_Fixed.exe
+D:\OneDrive - 강원대학교\과제\3학년 2학기\네트워크프로그래밍\C++ Projects\TCPClient_Fixed\TCPClient_Fixed\Debug\TCPClient_Fixed.exe

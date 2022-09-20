@@ -1,0 +1,16 @@
+﻿  UDPServer.cpp
+D:\OneDrive - 강원대학교\과제\3학년 2학기\네트워크프로그래밍\C++ Projects\UDPServer\UDPServer\UDPServer.cpp(37,2): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 인수 3을(를) 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+D:\OneDrive - 강원대학교\과제\3학년 2학기\네트워크프로그래밍\C++ Projects\UDPServer\UDPServer\UDPServer.cpp(44,3): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9161,1): message : 'MessageBoxW' 선언을 참조하십시오.
+D:\OneDrive - 강원대학교\과제\3학년 2학기\네트워크프로그래밍\C++ Projects\UDPServer\UDPServer\UDPServer.cpp(99,22): error C2664: 'void err_quit(char *)': 인수 1을(를) 'const char [9]'에서 'char *'(으)로 변환할 수 없습니다.
+D:\OneDrive - 강원대학교\과제\3학년 2학기\네트워크프로그래밍\C++ Projects\UDPServer\UDPServer\UDPServer.cpp(99,12): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+D:\OneDrive - 강원대학교\과제\3학년 2학기\네트워크프로그래밍\C++ Projects\UDPServer\UDPServer\UDPServer.cpp(14,6): message : 'err_quit' 선언을 참조하십시오.
+D:\OneDrive - 강원대학교\과제\3학년 2학기\네트워크프로그래밍\C++ Projects\UDPServer\UDPServer\UDPServer.cpp(111,20): error C2664: 'void err_quit(char *)': 인수 1을(를) 'const char [7]'에서 'char *'(으)로 변환할 수 없습니다.
+D:\OneDrive - 강원대학교\과제\3학년 2학기\네트워크프로그래밍\C++ Projects\UDPServer\UDPServer\UDPServer.cpp(111,12): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+D:\OneDrive - 강원대학교\과제\3학년 2학기\네트워크프로그래밍\C++ Projects\UDPServer\UDPServer\UDPServer.cpp(14,6): message : 'err_quit' 선언을 참조하십시오.
+D:\OneDrive - 강원대학교\과제\3학년 2학기\네트워크프로그래밍\C++ Projects\UDPServer\UDPServer\UDPServer.cpp(127,28): error C2664: 'void err_display(char *)': 인수 1을(를) 'const char [11]'에서 'char *'(으)로 변환할 수 없습니다.
+D:\OneDrive - 강원대학교\과제\3학년 2학기\네트워크프로그래밍\C++ Projects\UDPServer\UDPServer\UDPServer.cpp(127,16): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+D:\OneDrive - 강원대학교\과제\3학년 2학기\네트워크프로그래밍\C++ Projects\UDPServer\UDPServer\UDPServer.cpp(56,6): message : 'err_display' 선언을 참조하십시오.
+D:\OneDrive - 강원대학교\과제\3학년 2학기\네트워크프로그래밍\C++ Projects\UDPServer\UDPServer\UDPServer.cpp(139,26): error C2664: 'void err_display(char *)': 인수 1을(를) 'const char [9]'에서 'char *'(으)로 변환할 수 없습니다.
+D:\OneDrive - 강원대학교\과제\3학년 2학기\네트워크프로그래밍\C++ Projects\UDPServer\UDPServer\UDPServer.cpp(139,16): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+D:\OneDrive - 강원대학교\과제\3학년 2학기\네트워크프로그래밍\C++ Projects\UDPServer\UDPServer\UDPServer.cpp(56,6): message : 'err_display' 선언을 참조하십시오.
